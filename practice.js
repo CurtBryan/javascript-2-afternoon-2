@@ -10,7 +10,7 @@
 
 // Do not edit the code below.
 var arr = [10,20,30];
-// Do not edit the code above.
+// Do not edit the code above
 
 /*
   Create a function named 'first' that is given 'arr' as an argument.
